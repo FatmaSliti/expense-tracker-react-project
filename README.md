@@ -14,9 +14,13 @@ To install the Expense Tracker App, follow these steps:
 4. Start the app: `npm start`
 
 ## Screenshots/Demo
-Upon launching the program, you'll see this interface :
+
+Upon launching the app, you'll see this interface :
+
 ![Screenshot](expensetrackerinitialstatee.png)
+
 After clicking on the Add New Expense button you will see:
+
 ![Screenshot](expensetrackerformm.png)
 
 ## Features
