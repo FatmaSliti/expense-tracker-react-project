@@ -8,7 +8,7 @@ An easy-to-use expense tracker app to help you manage your finances and track yo
 
 To install the Expense Tracker App, follow these steps:
 
-1. Clone the repository
+1. Clone the repository : `https://github.com/FatmaSliti/expense-tracker-react-project.git`
 2. Navigate to the project directory
 3. Install dependencies: `npm install`
 4. Start the app: `npm start`
