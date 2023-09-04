@@ -15,9 +15,9 @@ To install the Expense Tracker App, follow these steps:
 
 ## Screenshots/Demo
 Upon launching the program, you'll see this interface :
-![Screenshot](expensetrackerinitialstate.png)
+![Screenshot](expensetrackerinitialstatee.png)
 After clicking on the Add New Expense button you will see:
-![Screenshot](expensetrackerform.png)
+![Screenshot](expensetrackerformm.png)
 
 ## Features
 
